@@ -6,7 +6,6 @@
     <title>Hola Mundo en HTML</title>
   </head>
   <body>
-<article><h1>articulo twiter</h1></article>
 <button class="botones">presione</botones>
   </body>
 </html>
