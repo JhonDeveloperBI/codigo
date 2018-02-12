@@ -5,4 +5,7 @@ font-familiy:'Century Gothic';
 padding:0 9px;
 background-color:black;
 color:white;
+display:inline-block;
+transition:0.3s;
+
 }
